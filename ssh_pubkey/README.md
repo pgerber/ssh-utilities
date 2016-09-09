@@ -2,7 +2,7 @@
 
 ## Generate authorized_keys file
 
-### Generate Authorized_keys File for User tocco on Host app05
+### Generate authorized_keys File for User tocco on Host app05
 ```bash
 ssh-pubkey-parser auth ~/ssh_auth/f tocco@app05
 ```
